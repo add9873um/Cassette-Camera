@@ -5,6 +5,15 @@ There are going to be a whole bunch of parts to this, but here are the big ones:
 ## Design
 As you can probably guess a camera needs a design!! I uh, have not worked on this part much, but soon!!
 
+So we're gonna get a start on how its gonna look, and what we're gonna need!
+So the first idea is having 2 separate devices, one for encoding, one for decoding, both are probably going to be arduinos. so the "map" so to say is probably gonna look something like this:
+camera >> encoding device >> tape >> decoding device >> screen
+so I am going to need at least 2 arduinos/raspberry pies, a screen, and a camera. once I have the ones im looking at down ill list them below:
+Screen:
+Encoder:
+Decoder:
+Camera:
+
 ## How It Works
 The part about how it like, works and stuff. So!! This might be a little confusing to read, because im still trying to fully understand this myself, but im gonna try to make it make sense!! So the basic idea of how it works is:
 1. You take the image. Pretty easy to guess. It might not be a super high quality photo, but until i get to the actually testing part i wont have an exact answer for the image quality.
@@ -16,5 +25,6 @@ A lot...
 - Test idea, see if it even works
 - Fix any issues here, like grammar, formatting, links, etc.
 - Add credits to people whove helped me/people whove made the tools im using
+  - encoding/decoding idea
 - Work on a design
 - Come up with a real name for this project!!!
