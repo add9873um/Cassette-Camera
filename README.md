@@ -31,3 +31,8 @@ A lot...
   - encoding/decoding idea
 - Work on a design
 - Come up with a real name for this project!!!
+
+## Straight Writing It
+i forgot my notebook today, so im gonna be taking notes here. maybe itll be fun to read over, who knows.
+
+Use puppy linux and modify it for an os? main questions are can we use magick and minimodem on puppy linux? it looks like i can! i think puppy linux would be good, strip it kind of way down, add some auto run prompts for when it starts up or something, boomzo. what kind of prompts? i would want it to start one that does the encoding and stuff when i take a photo, one that would listen and decode, if i dont use a seperate device, one to start up that stripped down version. im not planning on having a fancy screen, at least not right now, so i probably dont need a gui. well, during the setup i might. i would also want a program auto start prompt thing to control the indicator screen. which i still havent actually ordered :(. so i dont think i can actually use puppy linux rn, cus im on some stupid chromebook running velvet-os (cus its an arm64 one, bleh), so idk if this is gonna be the best to work on the most rn. what kind of pup would i want to use? can i actually do that, edit one? i feel like i remeber hearing i can. let me check the main page again rq. oh i just forked woofCE or something!! i might actually not end up using it thoug... i might just edit the normal one from inside of it and see if i can maybe image the drive or something to get an iso, and have that be the way it goes. i think im gonna use vanilla dpup, because its supposed to be faster and more lightweight and stuff.im gonna download the barebones one too. when i get home ill start uh, doing the everything that i have to. so uh, bye!
