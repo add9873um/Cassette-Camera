@@ -32,6 +32,9 @@ A lot...
 - Work on a design
 - Come up with a real name for this project!!!
 
+- ## Ideas!!
+- could i try converting the image before it goes on the tape (since it would be really fast) and using that info make a bar that says how close we are to being done writing/reading? for the little screen guy. and maybe so we can also show how full the tape is? we would want an adjustor for tape size then, but im also thinking we would want one for adjusting the bias and stuff too, so yknow.
+
 ## Straight Writing It
 i forgot my notebook today, so im gonna be taking notes here. maybe itll be fun to read over, who knows.
 
