@@ -21,7 +21,7 @@ The part about how it like, works and stuff. So!! This might be a little confusi
 2. Now you need a way to save the photo to the tape. I have gone through several ideas, but what ive settled on for now is using the terminal and this thing called [minimodem](http://www.whence.com/minimodem/). This will let you generate and decode audio modem tones from the terminal. We will also be using the (convert) command to change the format of the imgage from what it originally is to (.ppm). We will then pipe the output of the file to (minimodem), which will the read the data out in audio modem tones, and that is what we will record to the tape.
 3. Now that its on the tape, we need a way to, well, look at it. For that my idea is to play back the tape, and have a seperate terminal running (minimodem) thats listening, and to have that decode the audio modem tones into a (.ppm) photo. Then, we will either (convert) it back to the original photo format.
 
-So im not going to edit this much, but im looking at using debian on an uno q board for this, and i think it might be cool to make/modify an os specifically for this. I just wanted to add that.
+We have some proof of concept scripts now kinda! i think so at least. ill probably need to combine them in a different scrpit (or scripts) at some point, but for now those do what i want them to do!
 
 ## To Do
 A lot...
